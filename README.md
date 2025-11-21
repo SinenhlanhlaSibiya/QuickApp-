@@ -1,13 +1,13 @@
-# 📱 Message Application (Java, NetBeans, ANT)  
+#  Message Application (Java, NetBeans, ANT)  
 A three–part Java project designed for educational purposes, demonstrating **user authentication**, **message processing**, **message storage**, and **report generation** using GUI dialogs (JOptionPane) and JSON persistence.
 
 This project was developed in **NetBeans (ANT project)** and includes full **Part 1, Part 2, and Part 3** functionality with TestNG unit tests.
 
 ---
 
-## 📌 Features
+##  Features
 
-### ✅ **Part 1 – User Registration & Login**
+###  **Part 1 – User Registration & Login**
 - Create a user account with:
   - Username validation (must contain underscore, max 5 characters)
   - Password complexity rules (capital letter, number, special character, 8+ length)
@@ -17,7 +17,7 @@ This project was developed in **NetBeans (ANT project)** and includes full **Par
 
 ---
 
-### ✅ **Part 2 – Message Creation & Validation**
+###  **Part 2 – Message Creation & Validation**
 - Create a message with:
   - Recipient cell validation
   - Unique message ID (auto generated)
@@ -29,7 +29,7 @@ This project was developed in **NetBeans (ANT project)** and includes full **Par
 
 ---
 
-### ✅ **Part 3 – Message Management System**
+###  **Part 3 – Message Management System**
 Fully integrated message manager featuring:
 
 - Dynamic arrays/lists for:
@@ -49,7 +49,7 @@ Fully integrated message manager featuring:
 
 ---
 
-## 🧪 Unit Testing (TestNG)
+##  Unit Testing (TestNG)
 
 The project includes comprehensive non-GUI tests covering:
 - Login validation  
